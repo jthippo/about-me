@@ -1,6 +1,20 @@
+"use strict";
+
+let newUser = prompt(
+  "Oh, hello. You've caught me in the middle of coding a webpage. What's your name?"
+);
+
+alert(
+  "Hello " +
+    newUser +
+    "! Welcome to this webpage. It's time to learn about Mike Foster. No, don't cry."
+);
+
 function doQuiz() {
   alert(
-    "Prepare to answer 5 true or false questions on the topic of Mike Foster!"
+    "Hey, " +
+      newUser +
+      "! Put out that cigarette and prepare to answer 5 true or false questions on the topic of Mike Foster!"
   );
 
   let question1 = prompt(

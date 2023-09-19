@@ -26,9 +26,16 @@ footer {
 }
 
 button {
-  background-color: green;
+  background-color: red;
   font-weight: bolder;
   font-size: 48px;
-  padding: 1rem;
-  border-color: silver;
+  padding: 1rem 3rem;
+  border: 2px solid white;
+  border-radius: 0.5rem;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #4caf50;
+  color: white;
 }
