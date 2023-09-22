@@ -2,7 +2,7 @@
 
 #### LAB 02
 
-[Lighthouse accessibility result: 90%](./lighthouse-mike-foster.png)
+- [Lighthouse accessibility result: 90%](./lighthouse-mike-foster.png)
 
 #### LAB 03
 
@@ -19,4 +19,4 @@
 - Worked more on question 6 (found a workaround with Jez, decided to default back to previous working as it was cleaner if still a tiny bit broken)
 - Worked more on question 7 (lacking all the requested features but the array lookup works
 - Adding point tracking and alert
-  [Lighthouse accessibility result: ](./lighthouse2.png)
+- [Lighthouse accessibility result: ](./lighthouse2.png)
